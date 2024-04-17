@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hrist\\source\\repos\\RocketApplication - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D51B988-F9E9-4EEC-BECA-5A6BFEF071E8}|RocketApplication\\RocketApplication.csproj|c:\\users\\hrist\\source\\repos\\rocketapplication - copy\\rocketapplication\\rocketapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D51B988-F9E9-4EEC-BECA-5A6BFEF071E8}|RocketApplication\\RocketApplication.csproj|solutionrelative:rocketapplication\\rocketapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D51B988-F9E9-4EEC-BECA-5A6BFEF071E8}|RocketApplication\\RocketApplication.csproj|C:\\Users\\hrist\\source\\repos\\RocketApplication - Copy\\rocketapplication\\sqlitedataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D51B988-F9E9-4EEC-BECA-5A6BFEF071E8}|RocketApplication\\RocketApplication.csproj|solutionrelative:rocketapplication\\sqlitedataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D51B988-F9E9-4EEC-BECA-5A6BFEF071E8}|RocketApplication\\RocketApplication.csproj|C:\\Users\\hrist\\source\\repos\\RocketApplication - Copy\\rocketapplication\\rocketmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D51B988-F9E9-4EEC-BECA-5A6BFEF071E8}|RocketApplication\\RocketApplication.csproj|solutionrelative:rocketapplication\\rocketmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D51B988-F9E9-4EEC-BECA-5A6BFEF071E8}|RocketApplication\\RocketApplication.csproj|C:\\Users\\hrist\\source\\repos\\RocketApplication - Copy\\rocketapplication\\rocketapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D51B988-F9E9-4EEC-BECA-5A6BFEF071E8}|RocketApplication\\RocketApplication.csproj|solutionrelative:rocketapplication\\rocketapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D51B988-F9E9-4EEC-BECA-5A6BFEF071E8}|RocketApplication\\RocketApplication.csproj|C:\\Users\\hrist\\source\\repos\\RocketApplication - Copy\\rocketapplication\\rocketapp.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D51B988-F9E9-4EEC-BECA-5A6BFEF071E8}|RocketApplication\\RocketApplication.csproj|solutionrelative:rocketapplication\\rocketapp.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hrist\\source\\repos\\RocketApplication - Copy\\rocketapplication\\bin\\debug\\net8.0-windows\\emailadresses.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:rocketapplication\\bin\\debug\\net8.0-windows\\emailadresses.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D51B988-F9E9-4EEC-BECA-5A6BFEF071E8}|RocketApplication\\RocketApplication.csproj|C:\\Users\\hrist\\source\\repos\\RocketApplication - Copy\\rocketapplication\\rocketapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8D51B988-F9E9-4EEC-BECA-5A6BFEF071E8}|RocketApplication\\RocketApplication.csproj|solutionrelative:rocketapplication\\rocketapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D51B988-F9E9-4EEC-BECA-5A6BFEF071E8}|RocketApplication\\RocketApplication.csproj|C:\\Users\\hrist\\source\\repos\\RocketApplication - Copy\\rocketapplication\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8D51B988-F9E9-4EEC-BECA-5A6BFEF071E8}|RocketApplication\\RocketApplication.csproj|solutionrelative:rocketapplication\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D51B988-F9E9-4EEC-BECA-5A6BFEF071E8}|RocketApplication\\RocketApplication.csproj|C:\\Users\\hrist\\source\\repos\\RocketApplication - Copy\\rocketapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D51B988-F9E9-4EEC-BECA-5A6BFEF071E8}|RocketApplication\\RocketApplication.csproj|solutionrelative:rocketapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D51B988-F9E9-4EEC-BECA-5A6BFEF071E8}|RocketApplication\\RocketApplication.csproj|C:\\Users\\hrist\\source\\repos\\RocketApplication - Copy\\rocketapplication\\rocketapp.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{8D51B988-F9E9-4EEC-BECA-5A6BFEF071E8}|RocketApplication\\RocketApplication.csproj|solutionrelative:rocketapplication\\rocketapp.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RocketApp.cs",
+              "DocumentMoniker": "C:\\Users\\hrist\\source\\repos\\RocketApplication - Copy\\RocketApplication\\RocketApp.cs",
+              "RelativeDocumentMoniker": "RocketApplication\\RocketApp.cs",
+              "ToolTip": "C:\\Users\\hrist\\source\\repos\\RocketApplication - Copy\\RocketApplication\\RocketApp.cs",
+              "RelativeToolTip": "RocketApplication\\RocketApp.cs",
+              "ViewState": "AQIAAJIBAAAAwMzMzMwMwKkBAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T18:34:15.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RocketApp.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hrist\\source\\repos\\RocketApplication - Copy\\RocketApplication\\RocketApp.cs",
+              "RelativeDocumentMoniker": "RocketApplication\\RocketApp.cs",
+              "ToolTip": "C:\\Users\\hrist\\source\\repos\\RocketApplication - Copy\\RocketApplication\\RocketApp.cs [Design]",
+              "RelativeToolTip": "RocketApplication\\RocketApp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T14:15:38.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmailAdresses.json",
+              "DocumentMoniker": "C:\\Users\\hrist\\source\\repos\\RocketApplication - Copy\\RocketApplication\\bin\\Debug\\net8.0-windows\\EmailAdresses.json",
+              "RelativeDocumentMoniker": "RocketApplication\\bin\\Debug\\net8.0-windows\\EmailAdresses.json",
+              "ToolTip": "C:\\Users\\hrist\\source\\repos\\RocketApplication - Copy\\RocketApplication\\bin\\Debug\\net8.0-windows\\EmailAdresses.json",
+              "RelativeToolTip": "RocketApplication\\bin\\Debug\\net8.0-windows\\EmailAdresses.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-30T22:53:20.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SQLiteDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\hrist\\source\\repos\\RocketApplication - Copy\\RocketApplication\\SQLiteDataAccess.cs",
+              "RelativeDocumentMoniker": "RocketApplication\\SQLiteDataAccess.cs",
+              "ToolTip": "C:\\Users\\hrist\\source\\repos\\RocketApplication - Copy\\RocketApplication\\SQLiteDataAccess.cs",
+              "RelativeToolTip": "RocketApplication\\SQLiteDataAccess.cs",
+              "ViewState": "AQIAAA0AAAAAiJmZmZnZv0kAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T22:48:31.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RocketApplication.csproj",
+              "DocumentMoniker": "C:\\Users\\hrist\\source\\repos\\RocketApplication - Copy\\RocketApplication\\RocketApplication.csproj",
+              "RelativeDocumentMoniker": "RocketApplication\\RocketApplication.csproj",
+              "ToolTip": "C:\\Users\\hrist\\source\\repos\\RocketApplication - Copy\\RocketApplication\\RocketApplication.csproj",
+              "RelativeToolTip": "RocketApplication\\RocketApplication.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-29T21:32:11.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RocketModel.cs",
+              "DocumentMoniker": "C:\\Users\\hrist\\source\\repos\\RocketApplication - Copy\\RocketApplication\\RocketModel.cs",
+              "RelativeDocumentMoniker": "RocketApplication\\RocketModel.cs",
+              "ToolTip": "C:\\Users\\hrist\\source\\repos\\RocketApplication - Copy\\RocketApplication\\RocketModel.cs",
+              "RelativeToolTip": "RocketApplication\\RocketModel.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAmwBcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T21:35:39.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RocketApp.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hrist\\source\\repos\\RocketApplication - Copy\\RocketApplication\\RocketApp.Designer.cs",
+              "RelativeDocumentMoniker": "RocketApplication\\RocketApp.Designer.cs",
+              "ToolTip": "C:\\Users\\hrist\\source\\repos\\RocketApplication - Copy\\RocketApplication\\RocketApp.Designer.cs",
+              "RelativeToolTip": "RocketApplication\\RocketApp.Designer.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAANoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T18:25:53.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\hrist\\source\\repos\\RocketApplication - Copy\\RocketApplication\\App.config",
+              "RelativeDocumentMoniker": "RocketApplication\\App.config",
+              "ToolTip": "C:\\Users\\hrist\\source\\repos\\RocketApplication - Copy\\RocketApplication\\App.config",
+              "RelativeToolTip": "RocketApplication\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-29T22:36:58.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAGoUAAAAAAAAAAAAAIUUAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-04-01T21:11:53.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RocketApp.resx",
+              "DocumentMoniker": "C:\\Users\\hrist\\source\\repos\\RocketApplication - Copy\\RocketApplication\\RocketApp.resx",
+              "RelativeDocumentMoniker": "RocketApplication\\RocketApp.resx",
+              "ToolTip": "C:\\Users\\hrist\\source\\repos\\RocketApplication - Copy\\RocketApplication\\RocketApp.resx",
+              "RelativeToolTip": "RocketApplication\\RocketApp.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-03-29T18:26:05.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hrist\\source\\repos\\RocketApplication - Copy\\RocketApplication\\Program.cs",
+              "RelativeDocumentMoniker": "RocketApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\hrist\\source\\repos\\RocketApplication - Copy\\RocketApplication\\Program.cs",
+              "RelativeToolTip": "RocketApplication\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T18:25:56.541Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
